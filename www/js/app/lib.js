@@ -5,3 +5,4 @@ define(['jquery'], function ($) {
         }
     }
 });
+// 模块定义类型：简单至对。
